@@ -1,0 +1,27 @@
+body{
+
+    background-color: #64605F;
+}
+
+.carreP{
+
+    height: 400px;
+    width: 500px;
+    
+    background: #B1A9A7;
+    z-index: 1;
+    border-style: outset;
+    position: absolute; 
+    top: 50%; left: 50%; 
+    transform: translate(-50%, -50%);
+}
+
+.affichage{
+
+    position: absolute; 
+    top: 50%; left: 58%; 
+    transform: translate(-50%, -50%);
+    margin: 0;
+    width: 500px;
+    z-index: 10;
+}

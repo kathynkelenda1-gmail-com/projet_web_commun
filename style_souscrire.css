@@ -1,0 +1,34 @@
+h3,h4,h5{
+    text-align: center;
+}
+
+#container{                   
+    width:30%;
+    height:475px;
+    padding-top:7px;
+    padding-left:15px;
+      
+}
+
+.bloc{                
+    padding: 10px;   
+}
+
+.blocsize{
+    width:60%;
+    height:80px;
+}
+
+.blocborder{
+    border:1px solid black;  
+    border-radius: 10px; 
+    border-color: black; 
+}
+
+#entrer{
+    width:50%;  
+}
+
+.blocCenter{
+    margin:0 auto;
+}
